@@ -6,6 +6,8 @@ import java.util.Map;
 public class EvaluationService {
 
 	/**
+	 * ADD SOME DOCUMENTATION
+	 * 
 	 * 1.A Speed Converter - Convert to MilesPerHour
 	 * 
 	 * Write a method called toMilesPerHour that has 1 parameter of type double with
